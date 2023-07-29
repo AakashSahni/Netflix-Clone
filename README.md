@@ -1,2 +1,2 @@
 # Netflix-Clone
-Netflix clone  create using Html and Css
+Netflix clone is create  by using Html and Css
